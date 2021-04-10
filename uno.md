@@ -17,7 +17,7 @@ Color Cards: only playable if a card with the same color or value is open
 - Draw -1: next player has to do one more turn | if a +x card was played: reduce the bonus by 1
 - Swap (Big Chungus): Changes Playing direction / counts as a "no u" statement if a +x row or another effect was executed
 - Swap (Crab Wave): Playing rotation gets changed and next player is blocked
-- Swap (Swiper oder violetter Hase): Switch cards with a fellow fag (left from right of yourself, depending on what card you played); direction will not be changed
+- Swap (Swiper oder violetter Hase): Switch cards with a fellow fag (left or right of yourself, depending on what card you played); direction will not be changed
 - Monster Reborn: Choose one card from the discard pile
 - Ward: See one player's hand
 - Illuminati: Everybody shows their cards
