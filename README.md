@@ -11,7 +11,7 @@ LINK TO ORIGINAL FILE
 =====================
 This Document is completely designated to the Tabletop Simulator Steam Workshop File "Extreme UNO", available under the Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1811726058
 
-I do not have any personal contact to the original creator of the Workshop file, however, I respect everything they created and I complement all improvements made for their projects.¸¸
+I do not have any personal contact to the original creator of the Workshop file, however, I respect everything they created and I complement all improvements made for their projects.
 
 EXTRA NOTE
 ==========
