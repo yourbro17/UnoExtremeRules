@@ -27,10 +27,10 @@ Color Cards: only playable if a card with the same color or value is open
 
 Special Draw Cards: force the next player to draw and skip their turn
 ---------------------------------------------------------------------
-- Draw di(c)e roll: roll the dice and pick as many cards as the dice show
+- Draw di(c)e roll: roll the die (or dice, depending on how hardcore you are) and pick as many cards as the die shows
 - Draw until color (dabbing Thaddaeus): draw until the person gets the specified color
 - Berserker's Soul: Use all "draw" cards on one player - can not be "no U"d or "exe"d
-- No U: (only playable if you recieve an action card) returns action cards and changes game direction (only blockable with "No U" or "exe")
+- No U: (only playable if you recieve an action card) returns action cards and changes the game direction (only blockable with "No U" or "exe")
 - exe Card: (only playable if you recieve an action card) ends the effects of all active action cards
 
 Wild Cards: Cards that change the color of the game
