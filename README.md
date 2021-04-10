@@ -4,7 +4,7 @@ This instruction manual is solely made to improve the (in my opinion) unclear in
 
 LICENSE
 =======
-Although in the creation of this document I tended to a GNU General Public License, as I generally prefer open source and copylefted Software, right now, I prefer publishing this document under the WTFPL restrictions. 
+Although in the creation of this document I tended to a **GNU General Public License**, as I generally prefer open source and copylefted Software, right now, I prefer publishing this document under the **WTFPL** restrictions. 
 Bottom Line: Just take whatever you want; However, I would appreciate if you would name me in any fork projects.
 
 LINK TO ORIGINAL FILE
