@@ -1,4 +1,4 @@
-Purpose
+PURPOSE
 =======
 This instruction manual is solely made to improve the (in my opinion) unclear instruction from the main manual. The original rules were combined with some custom made rules from a Ski-Holiday with too many time spent in UNO-Practice
 
