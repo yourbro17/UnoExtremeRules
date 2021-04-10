@@ -3,10 +3,10 @@ UNO Extreme / Ski UNO - The ultimate UNO experience!!!
 
 Official Names of all Colors: 
 -----------------------------
--Pink
--Green
--Blue
--Orange
+- Pink
+- Green
+- Blue
+- Orange
 
 Color Cards: only playable if a card with the same color or value is open
 -------------------------------------------------------------------------
