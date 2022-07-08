@@ -54,7 +54,7 @@ Action Cards: Cards with Special Effects and can be played on any color
 - My turn on the Xbox: steal a players next turn
 - Communism: OH GLORY TO SOVIET RUSSIA ALL HAIL TO PUTIN all hands are grouped and shared equally among all comrades
 - Swap (Nami from OnePiece): swap hands with a fellow player
-- Your greed is hurting the economy: steal all of the next players special, non-wild cards
+- Your greed is hurting the economy: steal all of the next players non-one-color cards
 - Ditto: copies the last card
 
 Special Ulta Giga Extra Cards: Can be played at any time in the game
