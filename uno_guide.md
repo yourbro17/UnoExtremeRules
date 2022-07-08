@@ -23,7 +23,7 @@ Color Cards: only playable if a card with the same color or value is open
 - Illuminati: Everybody shows their cards
 - Ooooof card: every action card (+x) gets +2-ed. The event stops when the color is changed or another Oof is played (Protection doesn't work)
 - Protection/Condom card: Protects the individual from any impact of action cards and pushes the garbage to the next player
-- (Fred) Perry Denial: Blocks and moves all +x cards to the next player
+- Perry Denial: Blocks and moves all +x cards to the next player
 
 Special Draw Cards: force the next player to draw and skip their turn
 ---------------------------------------------------------------------
